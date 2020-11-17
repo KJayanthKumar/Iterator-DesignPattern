@@ -1,0 +1,7 @@
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\Program.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\1\1hsfsuwf.bup;1;0;False;73498C10C3BBDED3EBF61402B7BF3F149CBD4E87;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\Properties\AssemblyInfo.cs;;2;0;False;763F9DC7D928250AFFE06A62000968985C174ED6;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\Employee.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\3\wqigy525.f4n;3;0;False;DE29015402C2C0D98C8AA577BDAA242ADA0B8D17;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\AbstractIterator.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\4\cdfv4d5e.fn2;4;0;False;9BDC5F555BFC8BBD8D2AE53E4724F00241188ECC;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\Iterator.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\5\oahm2wyk.5ka;5;0;False;37B8A8F44CEDE86A86F8EFAC1D58F5AF6B2C7055;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\AbstractCollection.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\6\33fbtuq5.ym0;6;0;False;817775FEB267DE0C4EA5F4E98ACE9528819BE0FD;False
+C:\Learning\IteratorDesignPattern\IteratorDesignPattern\ConcreteCollection.cs;C:\Learning\IteratorDesignPattern\.klocwork\IteratorDesignPattern\cs.kwlp\ds\7\qofxycgl.xc2;7;0;False;5EE8ED546ABEF6330B52EF1E98CC833F8F532382;False
